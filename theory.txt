@@ -1,0 +1,112 @@
+Write once run anywhere
+
+oak - java green - java coffee
+
+Methods - performs a task when called
+
+Classes - Used to organize code/ blueprint..
+
+Robust 
+It has Garbage collector feature
+it is platform independent
+Compilation happens in byte code
+Multi threadinghelps with multi tasking
+It is a portable language 
+Java is not as fast as c , c++
+But gives good performance than others
+
+OOPS: 
+Abstraction, 
+Encapsulation, 
+Inheritance, 
+Ploymorphism - Same methods fordifferent tasks
+
+Primitive datatypes: by default supported by java
+1. byte -128 to 127
+2. short -32768 32767
+3. int -2^31 to 2^31-1
+4. long  -2^63 to 2^63 -1
+5. float -32 bit decimals
+6. double -64 bit decimals
+7. boolean -true | false
+8. char 16 - bit unicode character representation.. unicode representation can be represented across the world
+        in different character encodings
+
+Non Primitive Data types: Developer has liberty to define non primitive data types nature
+1. String (Special datatype , not fully primitive ornot fully non-primitive)
+    String str="Nishant";
+2.Array - A ds which can store a sequence of homogeneous data types
+    System.out.println(arr) //prints the memory location
+Array is a zero index based datatype.
+
+Java Tokens:
+Reserved word ,key words
+Keywords:
+abstract, boolean,  super, switch, new, while, this, throw, final
+
+Identifiers:
+any variable names  you declare in your program 
+cannot start with number, contain space, have + , -, &
+
+Constants : value cannot be changes once declared
+final int i =5
+
+Special Symbols:
+    [] () {}, ; * =
+
+Operators:
+    arithmatic ,comparison, logical, bitwise etc.
+
+
+DataType conversion:
+    `int` can easly fit to `long`
+    `long` to fit into `int`,something special needs to be done.
+
+Package:
+Grouping multiple related Java files like cart package, 
+
+Class: Blue print to create an object
+
+      object - instace of the blueprint
+Any class marked as public is acessible to everything in the whole project
+
+main method : entry of Java program, it is required to execute your program.
+
+static : whenever you want to acess something inside the class without creatingobject you need to use static 
+
+void : return type of the method
+String args[] :  Java will provide all commnad line arguments using the  string[] array.
+
+System class - To input or output something we need this class
+out - stream object
+`System class` uses `out stream` object to print something.
+
+Arrays in JAVA:
+Array is a container which can store a sequence of values in continuos fashion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

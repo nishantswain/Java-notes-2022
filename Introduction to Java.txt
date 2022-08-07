@@ -1,0 +1,13 @@
+Java dev by james gosling 
+owned by oraclenow
+web, dektop,mobile , game ,microservices 
+
+Features of Java
+Object oriented- everything happens using objects
+Platform independent- WORA , compiled programcan runon any platform 
+Strong type checking - respects conreacts of variables
+Compile and Interpret - Compile the program and run using interpretor
+Grabage collector -Automatic garbage collection
+Multi   Threading - Say in a racing game, thre can be one thread displaying leder board ,there can be once thread running the car etc..
+Secure - Secure by default..no pointers..no memory leaks 
+Robust - great exception handling framework
